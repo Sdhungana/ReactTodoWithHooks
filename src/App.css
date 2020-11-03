@@ -13,6 +13,10 @@ body {
     rgba(100, 115, 255, 1) 100%
   );
 }
+
+h3 a {
+  color: #fff;
+}
 .todo-app {
   display: flex;
   flex-direction: column;
