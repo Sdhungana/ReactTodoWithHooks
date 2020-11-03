@@ -16,6 +16,9 @@ body {
 
 h3 a {
   color: #fff;
+  text-decoration: none;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .todo-app {
   display: flex;
